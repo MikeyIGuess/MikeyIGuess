@@ -21,7 +21,7 @@ and contributing to communities that promote innovation and inclusion.
 ### 🧠 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**ClassLens AI**](https://github.com/MikeylGuess/ClassLens-AI) | AI-powered course assistant that searches PDFs and slides for quick answers | Next.js, FastAPI, OpenAI, Weaviate |
+| [**ClassLens AI**](https://github.com/MikeyIGuess/ClassLens-AI) | AI-powered course assistant that searches PDFs and slides for quick answers | Next.js, FastAPI, OpenAI, Weaviate |
 | [**Foodbank Tracker**](https://github.com/MikeylGuess/foodbank-tracker) | Web app that helps users find nearby foodbanks with map and filter options | TypeScript, Next.js, Tailwind |
 | [**Cultural Quest: World Explorer**](https://github.com/MikeylGuess/Cultural-Quest-World-Explorer) | Educational game with quizzes, avatars, and a 3D globe | JavaScript, Three.js, CSS |
 | [**College Life Game**](https://github.com/MikeylGuess/College-Life-Game) | Python-based simulation that models college life decisions | Python, Tkinter |
