@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Michael Thieblemont
+# 👋 Hi, I'm Michael Thieblemont
 
 🎓 **Computer Science Student @ Penn State University**  
 💡 Passionate about **AI, machine learning, and software engineering**
